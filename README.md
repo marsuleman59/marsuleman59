@@ -1,6 +1,6 @@
 # Hi, I'm Abdul Rasheed 👋
 
-I’m a mid senior Java full stack engineer. I combine engineering skills with product and business insights and help business thrive.
+I’m a mid senior Java full stack engineer. I combine engineering skills with product and business insights to help business thrive.
 
 ## 🔭 Currently Working On
 - Modernizing main frame and legacy applications to cloud native light weight apps. Not all apps needs to go to cloud, wait till your app beg to be deployed to cloud.
