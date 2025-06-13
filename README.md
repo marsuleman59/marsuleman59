@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**marsuleman59/marsuleman59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abdul Rasheed 👋
 
-Here are some ideas to get you started:
+I’m a mid senior Java full stack engineer. I combine engineering skills with product and business insights and help business thrive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working On
+- Modernizing main frame and legacy applications to cloud native light weight apps. Not all apps needs to go to cloud, wait till your app beg to be deployed to cloud.
+
+## 🌱 Currently Learning
+- New trends in cloud computing and data management.
+
+## 👯 Looking to Collaborate On
+- Fixing the gap between business, product owner and bit (0's and 1's)
+
+## 🤔 Looking for Help With
+- Latest cloud and data tech trends, cleaner and efficient code (you know, because the longer you run on public cloud the more you pay)
+
+## 💬 Ask Me About
+- Product strategy, cloud computing, and data management.
+
+## 📫 How to Reach Me
+- Email: marsuleman@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/abdul-rasheed-suleman-m-5195b6177/
+
+## 😄 Pronouns
+- He/Him
+
+## ⚡ Fun Fact
+- "Code is like humor. When you have to explain it, it’s bad."
+
+---
+
+### 🛠️ Tech Stack
+
+- **Backend:** Java, Spring Boot, I think I should add Node.js and Express here
+- **Frontend:** React, Angular, JavaScript  
+- **DevOps:** Docker, Kubernetes  
+- **Messaging:** Kafka  
+- **Databases:** SQL, NoSQL  
+- **Cloud:** AWS
+
+---
+
+Feel free to connect or check out my repos. I’m open to new ideas and projects!
