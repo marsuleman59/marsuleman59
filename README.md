@@ -11,13 +11,10 @@ I’m a mid senior Java full stack engineer. I combine engineering skills with p
 ## 🤔 Looking for Help With
 - Latest cloud and data tech trends, cleaner and efficient code (you know, because the longer you run on public cloud the more you pay)
 
-## 📫 How to Reach Me
-- Email: marsuleman@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/abdul-rasheed-suleman-m-5195b6177/
-
 ## ⚡ Fun Fact
 - "Code is like humor. When you have to explain it, it’s bad."
 
+## ⚡ Tech Stack
 - **Backend:** Java, Spring Boot, I think I should add Node.js and Express here
 - **Frontend:** React, Angular, JavaScript  
 - **DevOps:** Docker, Kubernetes  
@@ -25,4 +22,8 @@ I’m a mid senior Java full stack engineer. I combine engineering skills with p
 - **Databases:** SQL, NoSQL  
 - **Cloud:** AWS
 
+## 📫 How to Reach Me
+- Email: marsuleman@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/abdul-rasheed-suleman-m-5195b6177/
+  
 Feel free to connect or check out my repos. I’m open to new ideas and projects!
